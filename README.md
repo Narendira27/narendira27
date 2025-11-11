@@ -12,6 +12,9 @@ I’m a Full-Stack Developer focused on building fast, scalable, and reliable we
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=narendira27&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=narendira27&icon=0&color=0)](https://visitcount.itsvg.in)
 
